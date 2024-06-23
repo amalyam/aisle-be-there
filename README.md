@@ -1,6 +1,6 @@
 ## What is Aisle Be There and how was it built?
 
-[Aisle Be There](https://tcl-69-smart-shopping-list.web.app/) is a “smart” shopping list app that learns your buying habits and helps you remember what you’re likely to need to buy on your next shopping trip. The app was built [collaboratively](https://github.com/amalyam/aisle-be-there/blob/main/CONTRIBUTORS.md) using Firebase, React, JavaScript, NodeJS, HTML, and CSS. Firebase was used for authentication and storage. The app was buit with an emphasis on accessibility, and we used Agile methodologies to drive our process.
+[Aisle Be There](https://tcl-69-smart-shopping-list.web.app/) is a “smart” shopping list app that learns your buying habits and helps you remember what you’re likely to need to buy on your next shopping trip. The app was built [collaboratively](https://github.com/amalyam/aisle-be-there/blob/main/CONTRIBUTORS.md) using Firebase, React, JavaScript, NodeJS, HTML, and CSS. Firebase was used for authentication and storage. The app was built with an emphasis on accessibility, and we used Agile methodologies to drive our process.
 
 Over the 10 week development process, I:
 - contributed to 14 merged pull requests, enhancing various features and fixing bugs, leading to a reduction in crashes and optimizing accessibility and useability in line with WCAG 2 standards
